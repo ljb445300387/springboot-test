@@ -1,0 +1,23 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------< org.springframework:gs-spring-boot >-----------------
+[INFO] Building gs-spring-boot 0.1.0
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- mybatis-generator-maven-plugin:1.3.2:generate (default-cli) @ gs-spring-boot ---
+[INFO] Connecting to the Database
+[INFO] Introspecting table test
+[INFO] Generating Example class for table test
+[INFO] Generating Record class for table test
+[INFO] Generating Mapper Interface for table test
+[INFO] Generating SQL Map for table test
+[INFO] Saving file TestMapper.xml
+[INFO] Saving file TestExample.java
+[INFO] Saving file Test.java
+[INFO] Saving file TestMapper.java
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 3.163 s
+[INFO] Finished at: 2018-04-09T15:36:58+08:00
+[INFO] ------------------------------------------------------------------------
